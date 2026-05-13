@@ -1,5 +1,20 @@
 # scraping-ensino
 
+## 📂 Conteúdo baixado (vídeos + apostilas)
+
+> **⚠️ Os arquivos da pasta `downloads/` NÃO estão versionados neste repositório.**
+> São ~3,3 GB de vídeos `.mp4` e PDFs, hospedados no Google Drive:
+
+### 👉 [**Acessar pasta no Google Drive**](https://drive.google.com/drive/folders/1Xowjw7ivAFvZsglVNsMtVXDiJzpCcKqg?usp=sharing)
+
+```
+https://drive.google.com/drive/folders/1Xowjw7ivAFvZsglVNsMtVXDiJzpCcKqg?usp=sharing
+```
+
+Baixe a pasta do Drive e coloque o conteúdo em `downloads/` na raiz do projeto para reproduzir a estrutura local.
+
+---
+
 ## Panorama dos cursos
 
 O diretório `downloads/` reúne **21 cursos** da trilha Senior, divididos em três grandes blocos: **WMS Senior** (gestão de armazenagem), **Senior AI Logistics** e **Suporte Responde HCM**. O arquivo `downloads/_indice.json` lista todos os cursos com o respectivo percentual de andamento na plataforma.
