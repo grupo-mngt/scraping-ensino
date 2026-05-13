@@ -1,4 +1,4 @@
-# scraping-ensino
+# Scraping-ensino-wms
 
 ## Panorama dos cursos
 
